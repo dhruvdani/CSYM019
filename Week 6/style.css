@@ -1,0 +1,11 @@
+body{
+    background: lavender;
+    margin: 0;
+}
+
+#chart1,#chart2,#chart3,#chart4{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 1%;
+    height: 45vh;
+}
